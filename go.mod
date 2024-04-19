@@ -41,9 +41,9 @@ require (
 	github.com/xtaci/smux v1.5.16
 	go.etcd.io/etcd/raft/v3 v3.5.8
 	go.uber.org/automaxprocs v1.5.1
-	golang.org/x/net v0.8.0
+	golang.org/x/net v0.23.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.7.0
+	golang.org/x/sys v0.18.0
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 	gopkg.in/go-playground/validator.v9 v9.31.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
@@ -99,7 +99,7 @@ require (
 	github.com/samsarahq/go v0.0.0-20181026175739-13570df44b46 // indirect
 	github.com/smartystreets/goconvey v1.8.0 // indirect
 	golang.org/x/arch v0.0.0-20190312162104-788fe5ffcd8c // indirect
-	golang.org/x/text v0.8.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto v0.0.0-20200825200019-8632dd797987 // indirect
 	google.golang.org/grpc v1.35.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
